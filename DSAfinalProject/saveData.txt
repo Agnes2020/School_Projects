@@ -1,0 +1,37 @@
+A new user was created at:2020-04-02 10:52:02
+An anonymous user viewed the property at:2020-04-02 10:52:31
+An anonymous user viewed the property at:2020-04-02 10:52:46
+<AdminUser_class.MainUser object at 0x030BE810>tried to rent the property listed below but it is rented out
+Awoshie	100	4at: 2020-04-02 10:53:06
+
+An anonymous user viewed the property at:2020-04-02 10:53:15
+A house has been rented by an anonymous User. Details are as follows: 
+Location	Price	rooms/Size
+East_Legon	900	4002020-04-02 10:53:37
+
+
+The user has successfully logged out of the application at: 2020-04-02 10:53:51
+A new user was created at:2020-04-02 10:54:44
+Agi has added a house successfully at: 2020-04-02 10:55:33
+An anonymous user viewed the property at:2020-04-02 10:55:48
+
+The user has successfully logged out of the application at: 2020-04-02 10:56:05
+A new user was created at:2020-04-02 12:28:54
+Agi viewed the total revenue at2020-04-02 12:29:13
+An anonymous user viewed the property at:2020-04-02 12:29:35
+
+The user has successfully logged out of the application at: 2020-04-02 12:29:53
+A new user was created at:2020-04-02 12:31:21
+An anonymous user viewed the property at:2020-04-02 12:31:29
+<AdminUser_class.MainUser object at 0x03A68A10>tried to rent the property listed below but it is rented out
+Haatso	700	5at: 2020-04-02 12:31:40
+
+
+The user has successfully logged out of the application at: 2020-04-02 12:31:48
+A new user was created at:2020-04-02 12:37:45
+An anonymous user viewed the property at:2020-04-02 12:37:53
+Agitried to rent the property listed below but it is rented out
+Haatso	700	500at: 2020-04-02 12:37:58
+
+
+The user has successfully logged out of the application at: 2020-04-02 12:38:01
